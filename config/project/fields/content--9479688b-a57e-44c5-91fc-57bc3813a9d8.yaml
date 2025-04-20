@@ -1,0 +1,16 @@
+columnSuffix: null
+handle: content
+instructions: 'Use this field to add the main body text of the news post.'
+name: Content
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  initialRows: 8
+  multiline: true
+  placeholder: 'Enter article body text here'
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

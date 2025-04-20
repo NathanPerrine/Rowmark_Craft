@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: rowmark-craft
+primary: true
+siteGroup: 90b47f53-a756-491e-afcf-666a8fa732ee # rowmark-craft
+sortOrder: 1

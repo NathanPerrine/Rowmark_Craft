@@ -1,0 +1,68 @@
+color: indigo
+fieldLayouts:
+  1fb42def-e96d-4375-9213-dc91814aaa16:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-04-19T23:08:55+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: e71614c0-a1e3-4204-82d9-7ab25d6686f2
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-04-20T02:43:04+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 9479688b-a57e-44c5-91fc-57bc3813a9d8 # Content
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4500d58d-6b9a-4fde-9d9a-591824479836
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 585f33cf-ec4f-400c-846b-e4fdeee4d18f
+        userCondition: null
+handle: news
+hasTitleField: true
+icon: newspaper
+name: News
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

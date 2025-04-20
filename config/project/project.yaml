@@ -1,0 +1,31 @@
+dateModified: 1745119057
+email:
+  fromEmail: nathan.perrine@gmail.com
+  fromName: rowmark-craft
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    3e9e790c-b565-4bb5-9a5f-71224774265a: 'Public Schema' # Public Schema
+    90b47f53-a756-491e-afcf-666a8fa732ee: rowmark-craft # rowmark-craft
+    41913bec-8b41-4816-b358-f079b74a58fb: News # News
+    9479688b-a57e-44c5-91fc-57bc3813a9d8: Content # Content
+    b85f46b9-92a4-4260-9bad-df22d6408867: rowmark-craft # rowmark-craft
+    e88c6ff8-33cf-46fe-8672-e77d2140bc88: News # News
+plugins:
+  element-api:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: rowmark-craft
+  schemaVersion: 5.7.0.3
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
